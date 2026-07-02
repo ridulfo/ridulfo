@@ -1,1 +1,1 @@
-**Moved to https://codeberg.org/ridulfo.**
+## **Moved to https://codeberg.org/ridulfo.**
